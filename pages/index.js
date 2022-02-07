@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
       <p>
           Hello, I’m <strong>Nandy</strong>. I’m a software engineer, web programmer
-		  and android programmer). You can contact me on{' '}
+		  and android programmer. You can contact me on{' '}
           <a href="https://twitter.com/__frndyra16">Twitter</a>.
         </p>
         <p>
